@@ -111,3 +111,10 @@ Potential next steps include:
 - Building a web front end using Flask or FastAPI on top of the same SQLite schema.
 
 These enhancements would deepen the application’s complexity, broaden its utility, and showcase additional Python skills beyond the core requirements.
+---
+👋 We hope you find this project useful! 🚀
+
+## Contact Developer  
+    Email: masudpythongit@gmail.com 
+    Telegram: https://t.me/Masoud_GhasemiI_sorna_fast
+🔗 GitHub Profile: [sorna-fast](https://github.com/sorna-fast)
