@@ -116,5 +116,5 @@ These enhancements would deepen the application’s complexity, broaden its util
 
 ## Contact Developer  
     Email: masudpythongit@gmail.com 
-    Telegram: https://t.me/Masoud_GhasemiI_sorna_fast
+    Telegram: https://t.me/Masoud_Ghasemi_sorna_fast
 🔗 GitHub Profile: [sorna-fast](https://github.com/sorna-fast)
